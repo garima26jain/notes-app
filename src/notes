@@ -1,0 +1,6 @@
+passing  data from child to parent via 
+
+---make a function  and pass the necessary data from  child component
+inside that function call the parent function whih is passed down as prop
+(that will invoke the parent component function)
+
